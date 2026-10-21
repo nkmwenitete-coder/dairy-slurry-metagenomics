@@ -40,3 +40,9 @@ Research project conducted at the University of Nottingham. The dissertation rep
 
 ## Before publishing
 Confirm university/supervisor permission to share the work and check any institutional IP policies. Review extracted scripts, labels, file paths, and figures before making the repository public.
+
+## Full Dissertation
+
+The full undergraduate research dissertation is available [here](docs/Functional_Metagenomic_Final_Project%20%28GITHUB%29.pdf).
+
+The report provides further detail on the research background, methodology, bioinformatics pipeline, data analysis, results and discussion.
